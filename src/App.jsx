@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { useGSAP } from '@gsap/react';
 import gsap from 'gsap';
+import './index.css';
 import 'remixicon/fonts/remixicon.css';
 
 function App() {
